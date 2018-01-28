@@ -1,0 +1,5 @@
+0.1 HTML ja CSS
+
+Kertaa HTML:n ja CSS:n perusteet lukemalla Mozillan tutoriaalit HTML:stä ja CSS:stä.
+
+- done
